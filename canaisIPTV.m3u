@@ -1,0 +1,105 @@
+#EXTM3U
+#PLAYLISTV: pltv-logo="http://rtalon.rf.gd/logo_rogers.png" pltv-name="RTALON LISTA" pltv-description="Lista IPTV" pltv-cover="XXX CAPA DA LISTA XXX" pltv-author="Rogers Talon" pltv-site="XXX SITE CASO HOUVER XXX" pltv-email="rogers.talon@gmail.com"
+#15/082019
+#EXTINF:-1,========>>> Canais Abertos <<<========
+http://m3ulink.com:xxx/XXX
+#EXTINF:-1 group-title="Canais Abertos" pltv-subgroup="CAB" tvg-logo="http://i65.tinypic.com/33p7vox.png", Agro Canal
+https://5c49cd60dfe56.streamlock.net:6443/agrocanal/live/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos" pltv-subgroup="CAB" tvg-logo="http://i66.tinypic.com/dp926u.png", AgroBrasilTV
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos" pltv-subgroup="CAB" tvg-logo="https://uploaddeimagens.com.br/images/002/218/526/thumb/Band.png?1564168711", Band (SP)
+http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
+#EXTINF:-1 group-title="Canais Abertos" pltv-subgroup="CAB" tvg-logo="http://i67.tinypic.com/1056r1j.png", Canal do Boi
+https://5c49cd60dfe56.streamlock.net:6443/canaldoboi/live/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos" pltv-subgroup="CAB" tvg-logo="http://i67.tinypic.com/fdfre1.png", Canção Nova HD
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
+#EXTINF:-1 group-title="Canais Abertos" pltv-subgroup="CAB" tvg-logo="http://i67.tinypic.com/fdfre1.png", Canção Nova SD
+https://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_540_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Canais Abertos" pltv-subgroup="CAB" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", Globo Internacional
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5986.ts
+#EXTINF:-1 group-title="Canais Abertos" pltv-subgroup="CAB" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", Globo SP
+http://www.hdboxtv.net:8000/live/38faca72a091/38faca72a091/5619.ts
+#EXTINF:-1 group-title="Canais Abertos" pltv-subgroup="CAB" tvg-logo="https://uploaddeimagens.com.br/images/002/218/534/thumb/RedeRecord.png?1564168838", RecordTV (SP) HD
+http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b2690048.m3u8
+#EXTINF:-1 group-title="Canais Abertos" pltv-subgroup="CAB" tvg-logo="https://uploaddeimagens.com.br/images/002/218/534/thumb/RedeRecord.png?1564168838", RecordTV (SP) SD
+http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b832512.m3u8
+#EXTINF:-1 group-title="Canais Abertos" pltv-subgroup="CAB" tvg-logo="https://uploaddeimagens.com.br/images/002/218/060/thumb/RedeSeculo21.png?1564162404", Rede Século 21
+http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8
+#EXTINF:-1 group-title="Canais Abertos" pltv-subgroup="CAB" tvg-logo="https://uploaddeimagens.com.br/images/002/218/081/full/RedeSuper.png?1564162663", Rede Super
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
+#EXTINF:-1 group-title="Canais Abertos" pltv-subgroup="CAB" tvg-logo="https://uploaddeimagens.com.br/images/002/218/125/thumb/RedeVida.png?1564163217", Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos" pltv-subgroup="CAB" tvg-logo="https://uploaddeimagens.com.br/images/002/218/092/thumb/RedeTV.png?1564162820", RedeTV! (PB)
+https://5b7f3c45ab7c2.streamlock.net:443/9010/ngrp:9010_all/chunklist_w1880434489_b1359872_DVR.m3u8
+#EXTINF:-1 group-title="Canais Abertos" pltv-subgroup="CAB" tvg-logo="https://uploaddeimagens.com.br/images/002/218/092/full/RedeTV.png", RedeTV! (RJ)
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos" pltv-subgroup="CAB" tvg-logo="https://uploaddeimagens.com.br/images/002/218/092/thumb/RedeTV.png?1564162820", RedeTV! (RO)
+http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos" pltv-subgroup="CAB" tvg-logo="https://uploaddeimagens.com.br/images/002/218/092/thumb/RedeTV.png?1564162820", RedeTV! (SP)
+http://evpp.mm.uol.com.br/redetv2/redetv2/chunklist_w1675943173.m3u8
+#EXTINF:-1 group-title="Canais Abertos" pltv-subgroup="CAB" tvg-logo="https://uploaddeimagens.com.br/images/002/218/092/thumb/RedeTV.png?1564162820", RedeTV! HD
+https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
+#EXTINF:-1 group-title="Canais Abertos" pltv-subgroup="CAB" tvg-logo="https://uploaddeimagens.com.br/images/002/218/157/thumb/SBT-Int.png?1564163656", SBT (PE) Caruarú
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
+#EXTINF:-1 group-title="Canais Abertos" pltv-subgroup="CAB" tvg-logo="https://uploaddeimagens.com.br/images/002/218/155/full/SBT.png", SBT (PE) HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8
+#EXTINF:-1 group-title="Canais Abertos" pltv-subgroup="CAB" tvg-logo="https://uploaddeimagens.com.br/images/002/218/155/full/SBT.png", SBT (PE) SD
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w662604996_b131000_sleng.m3u8
+#EXTINF:-1 group-title="Canais Abertos" pltv-subgroup="CAB" tvg-logo="https://uploaddeimagens.com.br/images/002/218/157/thumb/SBT-Int.png?1564163656", SBT (SP) Interior
+https://5a1c76baf08c0.streamlock.net/z343-live/stream/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos" pltv-subgroup="CAB" tvg-logo="https://uploaddeimagens.com.br/images/002/218/187/thumb/TVAparecida.png?1564164099", TV Aparecida (HD)
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+#EXTINF:-1 group-title="Canais Abertos" pltv-subgroup="CAB" tvg-logo="https://uploaddeimagens.com.br/images/002/218/217/full/TvCamera.png?1564164527", TV Câmera
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 group-title="Canais Abertos" pltv-subgroup="CAB" tvg-logo="https://uploaddeimagens.com.br/images/002/218/229/full/TV_Cultura.png", TV Cultura (MG) HD
+https://59f1cbe63db89.streamlock.net:1443/redeatividade/_definst_/redeatividade/chunklist_w1109885564.m3u8
+#EXTINF:-1 group-title="Canais Abertos" pltv-subgroup="CAB" tvg-logo="https://uploaddeimagens.com.br/images/002/218/229/full/TV_Cultura.png", TV Cultura (PB) HD
+http://stream.tvitarare.com.br/hls/site/site_hi/index.m3u8
+#EXTINF:-1 group-title="Canais Abertos" pltv-subgroup="CAB" tvg-logo="https://uploaddeimagens.com.br/images/002/218/229/full/TV_Cultura.png", TV Cultura (PB) SD
+http://stream.tvitarare.com.br/hls/site/site_mid/index.m3u8
+#EXTINF:-1 group-title="Canais Abertos" pltv-subgroup="CAB" tvg-logo="https://uploaddeimagens.com.br/images/002/218/229/full/TV_Cultura.png", TV Cultura HD
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1982702716.m3u8
+#EXTINF:-1 group-title="Canais Abertos" pltv-subgroup="CAB" tvg-logo="https://uploaddeimagens.com.br/images/002/218/269/full/TV_Escola.png?1564165054", TV Escola
+https://slbps-sambatech.akamaized.net/live/348%2C1586%2C7e49d4c314175751675132379c09bfc5%3Bbase64np%3BwJc_sU5fkDpFL1o%21/amlst%3AwJfHqFMUlTtab9aE/chunklist_b884736.m3u8
+#EXTINF:-1 group-title="Canais Abertos" pltv-subgroup="CAB" tvg-logo="https://uploaddeimagens.com.br/images/002/218/283/full/TV_Gazeta.png?1564165170", TV Gazeta HD
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
+#EXTINF:-1 group-title="Canais Abertos" pltv-subgroup="CAB" tvg-logo="https://uploaddeimagens.com.br/images/002/218/283/full/TV_Gazeta.png?1564165170", TV Gazeta SD
+http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
+#EXTINF:-1 group-title="Canais Abertos" pltv-subgroup="CAB" tvg-logo="https://uploaddeimagens.com.br/images/002/218/308/full/TV_Novo_Tempo.png?1564165434", TV Novo Tempo (RS)
+http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos" pltv-subgroup="CAB" tvg-logo="https://uploaddeimagens.com.br/images/002/218/308/full/TV_Novo_Tempo.png?1564165434", TV Novo Tempo (SP)
+http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canais Abertos" pltv-subgroup="CAB" tvg-logo="https://uploaddeimagens.com.br/images/002/218/323/full/TV_O_Povo.png?1564165598", TV O Povo
+http://srv3.zoeweb.tv:1935/z01-live/stream/livestream.m3u8
+#EXTINF:-1 group-title="Canais Abertos" pltv-subgroup="CAB" tvg-logo="https://uploaddeimagens.com.br/images/002/218/333/full/TV_Terra_Viva.png?1564165720", TV Terra Viva HD
+https://evpp.mm.uol.com.br/band_live/terraviva/chunklist_w1446458525.m3u8
+#EXTINF:-1 group-title="Canais Abertos" pltv-subgroup="CAB" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/29bd5af93095d92009a3090c0b978a60.png", TVDS (PB)
+http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/chunklist_w980633800.m3u8
+#EXTINF:-1 group-title="Canais Abertos" pltv-subgroup="CAB" tvg-logo="https://uploaddeimagens.com.br/images/002/218/253/full/TV_Educativa.png?1564164932", TVE (BA) HD
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+#EXTINF:-1 group-title="Canais Abertos" pltv-subgroup="CAB" tvg-logo="https://uploaddeimagens.com.br/images/002/218/253/full/TV_Educativa.png?1564164932", TVE (BR) SD
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1,========>>> Canais Infantil <<<========
+http://m3ulink.com:xxx/XXX
+#EXTINF:-1 group-title="Canais Infantil" pltv-subgroup="CIF" tvg-logo="https://uploaddeimagens.com.br/images/002/218/350/thumb/Baby_TV.png", Baby TV HD
+http://nettv-xcruiser.com:8000/kUbWgQYkjS/E5uCnXJbUQ/60180
+#EXTINF:-1 group-title="Canais Infantil" pltv-subgroup="CIF" tvg-logo="https://uploaddeimagens.com.br/images/002/218/361/thumb/Disney_jr.png", Disney JR HD
+http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170,8784,e684993f245c481f1f1bb14b273256e3;base64np;-uribHdW7Nh31Zw!/amlst:-uoadWod6dlolRBm/chunklist_b2690048.m3u8
+#EXTINF:-1 group-title="Canais Infantil" pltv-subgroup="CIF" tvg-logo="https://uploaddeimagens.com.br/images/002/218/374/full/Disney_xd.png", Disney XD HD
+http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170,8784,7f7978dabb948939a8a5b1b171ef599c;base64np;cyzcx3V5SZ4JJwc!/amlst:cywk3mgyTJ8WZ4s4/chunklist_b1089536.m3u8
+#EXTINF:-1,========>>> Canais Esportes <<<========
+http://m3ulink.com:xxx/XXX
+#EXTINF:-1 group-title="Canais Esportes" pltv-subgroup="CES" tvg-logo="https://uploaddeimagens.com.br/images/002/218/517/thumb/Fox_Esportes.png?1564168565", Fox Sports
+http://spot-1.spotv.me:8080/sposts/directs/5437
+#EXTINF:-1,========>>> Canais Notícias <<<========
+http://m3ulink.com:xxx/XXX
+#EXTINF:-1 group-title="Canais Notícias" pltv-subgroup="CNT" tvg-logo="https://i.imgur.com/wMsj69X.png?1", Globo News HD
+http://ma-tv.magica.club:8080/yoshy/yoshy/12303
+#EXTINF:-1 group-title="Canais Notícias" pltv-subgroup="CNT" tvg-logo="https://uploaddeimagens.com.br/images/002/218/655/thumb/GVNews.png?1564170778", GV News
+http://173.236.10.10:1935/gvnews/gvnews/chunklist_w276861645.m3u8
+#EXTINF:-1 group-title="Canais Notícias" pltv-subgroup="CNT" tvg-logo="https://uploaddeimagens.com.br/images/002/218/567/thumb/Radio_Jornal.png?1564169166", Rádio Jornal (PE)
+http://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/chunklist_w653587283.m3u8
+#EXTINF:-1 group-title="Canais Notícias" pltv-subgroup="CNT" tvg-logo="https://uploaddeimagens.com.br/images/002/218/685/thumb/Record_News.png?1564171093", Record News HD
+http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C9135%2C89c2e0b2c30c0a4a75bde2766f1b172e%3Bbase64np%3BUPeMR84ZuD4AkNY%21/amlst%3AUPd0XtNSvT8f0Fqh/chunklist_b2690048.m3u8
+#EXTINF:-1 group-title="Canais Notícias" pltv-subgroup="CNT" tvg-logo="https://uploaddeimagens.com.br/images/002/218/685/thumb/Record_News.png?1564171093", Record News SD
+http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C9135%2C89c2e0b2c30c0a4a75bde2766f1b172e%3Bbase64np%3BUPeMR84ZuD4AkNY%21/amlst%3AUPd0XtNSvT8f0Fqh/chunklist_b832512.m3u8
