@@ -1,21 +1,15 @@
 #EXTM3U
 #PLAYLISTV: pltv-logo="http://rtalon.rf.gd/logo_rogers.png" pltv-name="RTALON LISTA" pltv-description="Lista IPTV" pltv-cover="XXX CAPA DA LISTA XXX" pltv-author="Rogers Talon" pltv-site="XXX SITE CASO HOUVER XXX" pltv-email="rogers.talon@gmail.com"
 #15/082019
-
 #EXTINF:-1,========>>> Canais Abertos <<<========
 http://m3ulink.com:xxx/XXX
-
 #EXTINF:-1 group-title="Canais Abertos" pltv-subgroup="CAB" tvg-logo="https://uploaddeimagens.com.br/images/002/218/125/thumb/RedeVida.png?1564163217", REDE VIDA HD
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="Canais Abertos" pltv-subgroup="CAB" tvg-logo="https://uploaddeimagens.com.br/images/002/218/092/thumb/RedeTV.png?1564162820", REDETV! HD
 https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
-
 #EXTINF:-1 group-title="Canais Abertos" pltv-subgroup="CAB" tvg-logo="https://uploaddeimagens.com.br/images/002/218/217/full/TvCamera.png?1564164527", TV CÂMERA
 https://stream3.camara.gov.br/tv1/manifest.m3u8
-
 #EXTINF:-1 group-title="Canais Abertos" pltv-subgroup="CAB" tvg-logo="https://uploaddeimagens.com.br/images/002/218/229/full/TV_Cultura.png", TV CULTURA HD
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1982702716.m3u8
-
 #EXTINF:-1 group-title="Canais Abertos" pltv-subgroup="CAB" tvg-logo="https://uploaddeimagens.com.br/images/002/218/283/full/TV_Gazeta.png?1564165170", TV GAZETA HD
 https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/tvgazetahd_8f98b68c_344e424edd410d3c4cad774668a6800c8e6df1b2/720p/chunklist.m3u8
